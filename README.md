@@ -1,11 +1,12 @@
 # github.com/ryanwclark/docker-db-backup
 
-[![GitHub release](https://img.shields.io/github/v/tag/ryanwclark/docker-db-backup?style=flat-square)](https://github.com/ryanwclark/docker-db-backup/releases/latest)
+
 [![Build Status](https://img.shields.io/github/workflow/status/ryanwclark/docker-db-backup/build?style=flat-square)](https://github.com/ryanwclark/docker-db-backup/actions?query=workflow%3Abuild)
 [![Docker Stars](https://img.shields.io/docker/stars/ryanwclark/db-backup.svg?style=flat-square&logo=docker)](https://hub.docker.com/ryanwclark/db-backup/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanwclark/db-backup.svg?style=flat-square&logo=docker)](https://hub.docker.com/ryanwclark/db-backup/)
 
 * * *
+
 ## About
 
 This will build a container for backing up multiple types of DB Servers
