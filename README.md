@@ -24,10 +24,6 @@ Currently backs up CouchDB, InfluxDB, MySQL, MongoDB, Postgres, Redis servers.
 * select when to start the first dump, whether time of day or relative to container start time
 * Execute script after backup for monitoring/alerting purposes
 
-## Maintainer
-
-- [Ryan Clark](https://github.com/ryanwclark)
-
 ## Table of Contents
 
 - [About](#about)
